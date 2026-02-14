@@ -1,0 +1,8 @@
+study_id: "STUDYXXX"
+
+paths:
+  raw: "data/raw"
+  sdtm: "data/sdtm"
+  adam: "data/adam"
+  output_sdtm: "output/sdtm_xpt"
+  output_adam: "output/adam_xpt"
